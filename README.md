@@ -49,7 +49,7 @@ and [GitHub](https://github.com/pysnmp/pysnmp.git).
 Just run:
 
 ```bash
-$ pip install pysnmp
+$ pip install pysnmplib
 ```
     
 to download and install PySNMP along with its dependencies:
